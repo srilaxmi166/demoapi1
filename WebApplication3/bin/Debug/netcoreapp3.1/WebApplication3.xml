@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication3</name>
+    </assembly>
+    <members>
+        <member name="P:WebApplication3.WeatherForecast.Date">
+            <summary>
+            Date for the weather
+            </summary>
+        </member>
+        <member name="P:WebApplication3.WeatherForecast.TemperatureC">
+            <summary>
+            Temperature in C
+            </summary>
+        </member>
+        <member name="P:WebApplication3.WeatherForecast.TemperatureF">
+            <summary>
+            Temperature in F
+            </summary>
+        </member>
+        <member name="P:WebApplication3.WeatherForecast.Summary">
+            <summary>
+            Summmary
+            </summary>
+        </member>
+    </members>
+</doc>
